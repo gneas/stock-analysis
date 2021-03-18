@@ -13,5 +13,3 @@ First, I created a macro called AllStocksAnalysis. This macro I used as a first 
 
 ## Summary
 
-## Results
-
