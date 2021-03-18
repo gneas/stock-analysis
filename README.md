@@ -21,7 +21,7 @@ First, I created a macro called AllStocksAnalysis. This macro was a first attemp
         tickers(9) = "SPWR"
         tickers(10) = "TERP"
         tickers(11) = "VSLR" 
-
+``
 ### Results & Runtime Comparison
 ![VBA Challenge Time Comparison](/Resources/VBA_Challenge_Time_Comparison.png "VBA Challenge Time Comparison")
 
