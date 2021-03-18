@@ -1,4 +1,4 @@
-# Stock Analysis
+# Stock Analysis using VBA
 
 ## Overview
 The pupose of this project was to create a tool within Excel using VBA coding in order to analyze stock volume and performance within a given year's timeframe. Further, it was necessary to refactor the VBA code to ensure the analysis was performed in a more efficient manner.
